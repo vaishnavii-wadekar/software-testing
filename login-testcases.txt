@@ -1,0 +1,12 @@
+Test Case 1:
+Check login with valid username and password 
+Expected: Login successful
+
+Test case2:
+Check login with invalid password 
+Expected: Error message
+
+Test case 3:
+Check login with empty fields
+Expected: Validation message
+
