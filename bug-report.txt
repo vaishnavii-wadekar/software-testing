@@ -1,0 +1,10 @@
+Steps to Reproduce:
+1. Open login page
+2. Enter valid username and password 
+3. Click login button
+
+Expected Result:
+User should login successfully
+
+Actual Result:
+Nothing happens after clicking login
